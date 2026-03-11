@@ -17,7 +17,7 @@
 
 <ul>
   <li>I’m currently working on <strong>Web Development</strong></li>
-  <li>I recently worked on a <strong>Handloom Tethering Website</strong></li>
+  <li>I recently worked on a <strong>PrepAi - prepare Interview Simply</strong></li>
   <li>I’m currently learning <strong>How to make a site ready for industrial level</strong></li>
   <li>I’m looking to collaborate on <strong>Some projects</strong></li>
   <li>How to reach me: <strong><a href="mailto:ankitaur2022@gmail.com" target="_blank" rel="noopener noreferrer">ankitaur2022@gmail.com</a></strong></li>
