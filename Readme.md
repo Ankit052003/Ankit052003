@@ -71,15 +71,14 @@ I am currently focused on improving my development workflow, strengthening probl
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ankit052003&show_icons=true&hide_border=true&rank_icon=github&theme=default&title_color=1f2937&text_color=374151&icon_color=2563eb"
-    alt="GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit052003&layout=compact&hide_border=true&theme=default&title_color=1f2937&text_color=374151"
-    alt="Top Languages"
-    height="180"
-  />
+  src="https://github-readme-stats.vercel.app/api?username=Ankit052003&show_icons=true&hide_border=true&rank_icon=github&theme=default&cache_seconds=1800"
+  alt="GitHub Stats"
+  height="180"
+/>  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit052003&layout=compact&hide_border=true&theme=default&cache_seconds=1800"
+  alt="Top Languages"
+  height="180"
+/>
 </p>
 
 <p align="center">
