@@ -25,17 +25,6 @@ I am currently focused on improving my development workflow, strengthening probl
 
 ---
 
-<h2 align="left">Current Focus</h2>
-
-<ul>
-  <li>Building full stack web applications with practical real-world use cases</li>
-  <li>Improving application architecture and backend system design</li>
-  <li>Learning how to make projects more scalable, maintainable, and industry-ready</li>
-  <li>Exploring opportunities to collaborate on meaningful software projects</li>
-</ul>
-
----
-
 <h2 align="left">Selected Work</h2>
 
 <ul>
