@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://x.com/ANKIT052003" target="_blank" rel="noopener noreferrer">Twitter</a> |
   <a href="https://www.linkedin.com/in/ankit-kumar-501356301/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
-  <a href="https://github.com/Ankit052003" target="_blank" rel="noopener noreferrer">GitHub</a> |
   <a href="mailto:ankitaur2022@gmail.com">Email</a> |
   <a href="https://ankittkr.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 </p>
